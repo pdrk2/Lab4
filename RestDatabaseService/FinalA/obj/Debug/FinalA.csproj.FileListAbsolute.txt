@@ -1,0 +1,6 @@
+C:\Users\dinne\Documents\Visual Studio 2013\Projects\FinalA\FinalA\obj\Debug\FinalA.csprojResolveAssemblyReference.cache
+C:\Users\dinne\Documents\Visual Studio 2013\Projects\FinalA\FinalA\bin\FinalA.dll.config
+C:\Users\dinne\Documents\Visual Studio 2013\Projects\FinalA\FinalA\bin\FinalA.dll
+C:\Users\dinne\Documents\Visual Studio 2013\Projects\FinalA\FinalA\bin\FinalA.pdb
+C:\Users\dinne\Documents\Visual Studio 2013\Projects\FinalA\FinalA\obj\Debug\FinalA.dll
+C:\Users\dinne\Documents\Visual Studio 2013\Projects\FinalA\FinalA\obj\Debug\FinalA.pdb
